@@ -1,0 +1,18 @@
+FITMATE AI — Official Release Checksums (Phase 1)
+Build Date: 2026-09-13 | Release Version: 1.0.4
+
+[Windows Desktop Installer]
+File: FITMATE-AI-Setup.exe
+Size: 43520 bytes (42.5 KB)
+SHA-256: fe1fd52deb09c68fdc31cf3237427cf88f6b1f2c3cbe19f30aa39ce90889b4e3
+Architecture: Native x64 / .NET Framework 4.8
+Target OS: Windows 10 / Windows 11 (64-bit)
+Features: Installs Desktop & Start Menu Shortcuts, Registers Add/Remove Programs
+
+[Android Application Package]
+File: FITMATE-AI.apk
+Size: 20679 bytes (20.2 KB)
+SHA-256: a9df85761589439be7944cd37cc06fcad613bab0ac8e11a2e9746e4460cec195
+Architecture: Universal (ARM64 / x86_64)
+Min Android: Android 7.0+ (API Level 24)
+Target SDK: Android 14 (API Level 34)
